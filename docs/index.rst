@@ -9,7 +9,7 @@
    :target: https://github.com/MatthiasValvekens/pyHanko
 
 pyHanko
-=======
+=========
 
 PyHanko is a tool for signing and stamping PDF files.
 
